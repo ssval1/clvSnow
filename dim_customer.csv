@@ -1,0 +1,21 @@
+CustomerID,SignupDate,Region,AcquisitionChannel
+C001,2022-02-03,EU-North,Organic
+C002,2023-12-08,APAC,Organic
+C003,2023-11-12,APAC,Organic
+C004,2023-12-23,US-East,Paid Search
+C005,2022-12-25,US-Central,Social Media
+C006,2023-01-09,APAC,Organic
+C007,2024-07-26,US-West,Paid Search
+C008,2023-02-17,US-West,Referral
+C009,2022-03-27,EU-North,Paid Search
+C010,2024-11-21,US-Central,Social Media
+C011,2023-06-03,US-West,Referral
+C012,2023-08-09,EU-North,Organic
+C013,2023-11-11,EU-North,Organic
+C014,2024-01-24,US-Central,Social Media
+C015,2024-06-19,US-Central,Paid Search
+C016,2023-01-18,US-Central,Social Media
+C017,2024-01-23,US-East,Paid Search
+C018,2022-06-19,US-Central,Organic
+C019,2024-05-31,US-East,Referral
+C020,2025-01-22,EU-North,Paid Search
